@@ -1,6 +1,6 @@
 Renamer for https://compressjpeg.com
 
-What did it do?
+What does it do?
 -
 Just remove '-min' from end of the compressed images.
 
